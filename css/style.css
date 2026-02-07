@@ -22,7 +22,7 @@ body {
 }
 
 .container {
-    width: 420px;
+    width: 500px;
     padding: 28px;
     border-radius: 20px;
     backdrop-filter: blur(15px);
